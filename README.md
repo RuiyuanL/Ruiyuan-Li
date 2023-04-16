@@ -36,4 +36,14 @@ def foo():
     if not bar:
         return True
         
-![](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.)       
+![](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.)
+
+| Number | Colour |  Size  |
+|-------:|:-------|:------:|
+|    1   | Red    |  Small |
+|   12   | Yelow  |   Big  |
+|   30   | Blue   | Medium |
+
+```Python
+def my_function():
+  print("Hello from a function")
